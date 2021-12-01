@@ -1,3 +1,5 @@
 (fp_lib_table
-  (lib (name ESP8266)(type KiCad)(uri C:/Users/kjj61/Dropbox/projects/kicad-ESP8266-master/ESP8266.pretty)(options "")(descr ""))
+  (lib (name ESP8266)(type KiCad)(uri /Users/kalan/Dropbox/projects/kicad-ESP8266-master/ESP8266.pretty)(options "")(descr ""))
+  (lib (name TC1262-3)(type KiCad)(uri /Users/kalan/Dropbox/projects/TC1262-3.3VDB)(options "")(descr ""))
+  (lib (name TPCL105M010R5000)(type KiCad)(uri /Users/kalan/Dropbox/projects/TPCL105M010R5000)(options "")(descr ""))
 )
