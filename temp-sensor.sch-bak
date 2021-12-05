@@ -168,7 +168,7 @@ U 1 1 61A7D0E8
 P 4850 3250
 F 0 "U2" H 4850 2735 50  0000 C CNN
 F 1 "ESP-01v090" H 4850 2826 50  0000 C CNN
-F 2 "ESP01" H 4850 3250 50  0001 C CNN
+F 2 "ESP8266:ESP01" H 4850 3250 50  0001 C CNN
 F 3 "http://l0l.org.uk/2014/12/esp8266-modules-hardware-guide-gotta-catch-em-all/" H 4850 3250 50  0001 C CNN
 	1    4850 3250
 	-1   0    0    1   
